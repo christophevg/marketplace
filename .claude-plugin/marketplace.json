@@ -1,0 +1,13 @@
+{
+  "name": "christophe.vg",
+  "owner": {
+    "name": "Christophe VG",
+    "email": "contact@christophe.vg"
+  },
+  "plugins": [
+    {
+      "name": "demo-plugin",
+      "source": "./plugins/demo-plugin"
+    }
+  ]
+}
