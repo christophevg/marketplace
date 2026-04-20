@@ -8,6 +8,13 @@
     {
       "name": "demo-plugin",
       "source": "./plugins/demo-plugin"
+    },
+    {
+      "name": "c3",
+      "source": {
+        "source": "github",
+        "repo": "christophevg/c3"
+      }
     }
   ]
 }
