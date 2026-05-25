@@ -1,5 +1,9 @@
 # Christophe VG's Agentic Marketplace
 
+[![Platform](https://img.shields.io/badge/platform-mac%20%7C%20linux-lightgrey.svg)][platform]
+[![License](https://img.shields.io/github/license/christophevg/marketplace.svg)][license]
+[![Agentic](https://img.shields.io/badge/workflow-agentic-blueviolet?style=flat-square)](https://christophe.vg/about/Agentic-Workflow)
+
 The repository contains my very own Agentic Marketplace, offering access to plugin distributions of skills, agents and MCP servers I like to share.
 
 ## Minimal Survival Instructions
@@ -44,8 +48,11 @@ pip install fastmcp
  Want to roll again?
 
 ────────────────────────────────────────────────────────────────────────────────
-❯ 
+❯ 
 ────────────────────────────────────────────────────────────────────────────────
  glm-5:cloud: █░░░░░░░░░ 15% | ⏱️  1m 32s
  📁 c3 | 🌿 master
 ```
+
+[platform]: #
+[license]: LICENSE
