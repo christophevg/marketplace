@@ -15,6 +15,13 @@
         "source": "github",
         "repo": "christophevg/c3"
       }
+    },
+    {
+      "name": "pkgq",
+      "source": {
+        "source": "github",
+        "repo": "christophevg/pkgq"
+      }
     }
   ]
 }
